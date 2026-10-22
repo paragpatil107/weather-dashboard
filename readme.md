@@ -5,8 +5,8 @@ Built using `requests` and Object-Oriented/functional programming principles.
 
 ## Screenshots
 
-### Dashboard
-![Weather Dashboard - Report 1 : Nashik and Pune)](1.png)
+### Weather Dashboard — Nashik and Pune
+![Weather Dashboard - Nashik and Pune](screenshots/1.png)
 
-### Dashboard
-![Weather Dashboard - Report 2 : Mumbai)](2.png)
+### Weather Dashboard — Mumbai
+![Weather Dashboard - Mumbai](screenshots/2.png)
